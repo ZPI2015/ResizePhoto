@@ -1,0 +1,17 @@
+\contentsline {chapter}{\numberline {1}Zespo\IeC {\l }owe przedsi\IeC {\k e}wzi\IeC {\k e}cie}{3}{chapter.1}
+\contentsline {section}{\numberline {1.1}Cz\IeC {\l }onkowie zespo\IeC {\l }u z okre\IeC {\'s}leniem funkcji}{3}{section.1.1}
+\contentsline {section}{\numberline {1.2}Uzasadnienie potrzeby realizacji projektu}{3}{section.1.2}
+\contentsline {section}{\numberline {1.3}Cele projektu}{3}{section.1.3}
+\contentsline {section}{\numberline {1.4}Grupy docelowe}{3}{section.1.4}
+\contentsline {section}{\numberline {1.5}Zakres projektu}{4}{section.1.5}
+\contentsline {section}{\numberline {1.6}Struktura podzia\IeC {\l }u prac (zada\IeC {\'n}) - WBS}{4}{section.1.6}
+\contentsline {section}{\numberline {1.7}Diagram sieciowy}{5}{section.1.7}
+\contentsline {section}{\numberline {1.8}Harmonogram}{5}{section.1.8}
+\contentsline {subsection}{\numberline {1.8.1}Harmonogram prac poszczeg\IeC {\'o}lnych cz\IeC {\l }onk\IeC {\'o}w zespo\IeC {\l }u}{5}{subsection.1.8.1}
+\contentsline {section}{\numberline {1.9}Dokumentacja}{5}{section.1.9}
+\contentsline {subsection}{\numberline {1.9.1}Edycja plik\IeC {\'o}w dokumentacyjnych}{5}{subsection.1.9.1}
+\contentsline {subsubsection}{\numberline {1.9.1.1}Obs\IeC {\l }uga SVN}{5}{subsubsection.1.9.1.1}
+\contentsline {chapter}{\numberline {2}Pawe\IeC {\l } Golonka}{6}{chapter.2}
+\contentsline {chapter}{\numberline {3}Karol Liszka}{7}{chapter.3}
+\contentsline {chapter}{\numberline {4}Bartosz Rusinek}{8}{chapter.4}
+\contentsline {chapter}{Bibliografia}{9}{chapter*.2}

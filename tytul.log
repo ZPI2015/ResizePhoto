@@ -1,0 +1,267 @@
+This is pdfTeX, Version 3.14159265-2.6-1.40.16 (MiKTeX 2.9) (preloaded format=pdflatex 2015.10.12)  12 OCT 2015 21:48
+entering extended mode
+**tytul.tex
+(tytul.tex
+LaTeX2e <2015/01/01> patch level 2
+Babel <3.9m> and hyphenation patterns for 69 languages loaded.
+
+! LaTeX Error: Missing \begin{document}.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.12 \hspace{1cm}
+                 
+You're in trouble here.  Try typing  <return>  to proceed.
+If that doesn't work, type  X <return>  to quit.
+
+
+! LaTeX Error: Missing \begin{document}.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.15 \noindent
+              \textbf{\Huge Program wspomagania systemu ratownictwa na teren...
+
+You're in trouble here.  Try typing  <return>  to proceed.
+If that doesn't work, type  X <return>  to quit.
+
+! Undefined control sequence.
+<recently read> \Huge 
+                      
+l.15 ...terenie\\ \vspace{0.3cm}miasta Nowy SÄ…cz}
+                                                  \vspace{0.5cm}\\
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+
+Overfull \hbox (44.00671pt too wide) in paragraph at lines 15--15
+ \OT1/cmr/bx/n/10 Program 
+ []
+
+
+Overfull \hbox (29.13316pt too wide) in paragraph at lines 15--15
+ \OT1/cmr/bx/n/10 wspo- 
+ []
+
+
+Overfull \hbox (19.00682pt too wide) in paragraph at lines 15--15
+ \OT1/cmr/bx/n/10 ma- 
+ []
+
+
+Overfull \hbox (26.5137pt too wide) in paragraph at lines 15--15
+ \OT1/cmr/bx/n/10 gania 
+ []
+
+
+Overfull \hbox (18.97487pt too wide) in paragraph at lines 15--15
+ \OT1/cmr/bx/n/10 sys- 
+ []
+
+
+Overfull \hbox (25.3957pt too wide) in paragraph at lines 15--15
+ \OT1/cmr/bx/n/10 temu 
+ []
+
+
+Overfull \hbox (14.15964pt too wide) in paragraph at lines 15--15
+ \OT1/cmr/bx/n/10 ra- 
+ []
+
+
+Overfull \hbox (28.4304pt too wide) in paragraph at lines 15--15
+ \OT1/cmr/bx/n/10 town- 
+ []
+
+
+Overfull \hbox (26.03456pt too wide) in paragraph at lines 15--15
+ \OT1/cmr/bx/n/10 ictwa 
+ []
+
+
+Overfull \hbox (11.97908pt too wide) in paragraph at lines 15--15
+ \OT1/cmr/bx/n/10 na 
+ []
+
+
+Overfull \hbox (23.58324pt too wide) in paragraph at lines 15--15
+ \OT1/cmr/bx/n/10 tere- 
+ []
+
+
+Overfull \hbox (14.8541pt too wide) in paragraph at lines 15--15
+ \OT1/cmr/bx/n/10 nie 
+ []
+
+
+! LaTeX Error: Missing \begin{document}.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.15 ...terenie\\ \vspace{0.3cm}miasta Nowy SÄ…cz}
+                                                  \vspace{0.5cm}\\
+You're in trouble here.  Try typing  <return>  to proceed.
+If that doesn't work, type  X <return>  to quit.
+
+Missing character: There is no Ä in font cmbx10!
+Missing character: There is no … in font cmbx10!
+
+Overfull \hbox (32.96643pt too wide) in paragraph at lines 15--15
+ []\OT1/cmr/bx/n/10 miasta 
+ []
+
+
+Overfull \hbox (28.8054pt too wide) in paragraph at lines 15--15
+ \OT1/cmr/bx/n/10 Nowy 
+ []
+
+
+Overfull \hbox (16.61102pt too wide) in paragraph at lines 15--15
+ \OT1/cmr/bx/n/10 Scz 
+ []
+
+
+! LaTeX Error: Missing \begin{document}.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.16 \noindent
+              \textbf{\vspace{0.3cm}ZespoÅ‚owe przedsiÄ™wziÄ™cie inÅ¼yniersk...
+
+You're in trouble here.  Try typing  <return>  to proceed.
+If that doesn't work, type  X <return>  to quit.
+
+Missing character: There is no Å in font cmbx10!
+Missing character: There is no ‚ in font cmbx10!
+Missing character: There is no Ä in font cmbx10!
+Missing character: There is no ™ in font cmbx10!
+Missing character: There is no Ä in font cmbx10!
+Missing character: There is no ™ in font cmbx10!
+Missing character: There is no Å in font cmbx10!
+Missing character: There is no ¼ in font cmbx10!
+
+Overfull \hbox (47.9803pt too wide) in paragraph at lines 16--16
+ \OT1/cmr/bx/n/10 Zespoowe 
+ []
+
+
+Overfull \hbox (31.72902pt too wide) in paragraph at lines 16--16
+ \OT1/cmr/bx/n/10 przed- 
+ []
+
+
+Overfull \hbox (11.56381pt too wide) in paragraph at lines 16--16
+ \OT1/cmr/bx/n/10 si- 
+ []
+
+
+Overfull \hbox (20.44434pt too wide) in paragraph at lines 16--16
+ \OT1/cmr/bx/n/10 wzi- 
+ []
+
+
+Overfull \hbox (13.57632pt too wide) in paragraph at lines 16--16
+ \OT1/cmr/bx/n/10 cie 
+ []
+
+
+Overfull \hbox (13.4166pt too wide) in paragraph at lines 16--16
+ \OT1/cmr/bx/n/10 in- 
+ []
+
+
+Overfull \hbox (29.49292pt too wide) in paragraph at lines 16--16
+ \OT1/cmr/bx/n/10 ynier- 
+ []
+
+
+Overfull \hbox (19.07072pt too wide) in paragraph at lines 16--16
+ \OT1/cmr/bx/n/10 skie 
+ []
+
+
+! LaTeX Error: Missing \begin{document}.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.17 \noindent
+              \textbf{ProwadzÄ…cy: Antoni LigÄ™za}}\\}
+You're in trouble here.  Try typing  <return>  to proceed.
+If that doesn't work, type  X <return>  to quit.
+
+Missing character: There is no Ä in font cmbx10!
+Missing character: There is no … in font cmbx10!
+Missing character: There is no Ä in font cmbx10!
+Missing character: There is no ™ in font cmbx10!
+
+Overfull \hbox (57.47885pt too wide) in paragraph at lines 17--17
+ \OT1/cmr/bx/n/10 Prowadzcy: 
+ []
+
+
+Overfull \hbox (18.91656pt too wide) in paragraph at lines 17--17
+ \OT1/cmr/bx/n/10 An- 
+ []
+
+
+Overfull \hbox (19.80545pt too wide) in paragraph at lines 17--17
+ \OT1/cmr/bx/n/10 toni 
+ []
+
+
+Overfull \hbox (26.56233pt too wide) in paragraph at lines 17--17
+ \OT1/cmr/bx/n/10 Ligza 
+ []
+
+
+Overfull \hbox (20.0pt too wide) in paragraph at lines 12--17
+ [] 
+ []
+
+
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+
+
+! LaTeX Error: The font size command \normalsize is not defined:
+               there is probably something wrong with the class file.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.17 ...ent\textbf{ProwadzÄ…cy: Antoni LigÄ™za}}\\
+                                                  }
+Your command was ignored.
+Type  I <command> <return>  to replace it with another command,
+or  <return>  to continue without it.
+
+[1])
+! Emergency stop.
+<*> tytul.tex
+             
+*** (job aborted, no legal \end found)
+
+ 
+Here is how much of TeX's memory you used:
+ 19 strings out of 493673
+ 181 string characters out of 3141532
+ 53455 words of memory out of 3000000
+ 3465 multiletter control sequences out of 15000+200000
+ 3948 words of font info for 15 fonts, out of 3000000 for 9000
+ 1025 hyphenation exceptions out of 8191
+ 19i,4n,14p,152b,135s stack positions out of 5000i,500n,10000p,200000b,50000s
+!  ==> Fatal error occurred, no output PDF file produced!
