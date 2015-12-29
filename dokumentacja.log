@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.16 (MiKTeX 2.9) (preloaded format=pdflatex 2015.10.12)  29 DEC 2015 16:48
+This is pdfTeX, Version 3.14159265-2.6-1.40.16 (MiKTeX 2.9) (preloaded format=pdflatex 2015.10.12)  29 DEC 2015 18:09
 entering extended mode
 **dokumentacja.tex
 (dokumentacja.tex
@@ -775,36 +775,76 @@ LaTeX Font Info:    Font shape `OMS/cmr/m/n' in size <8> not available
 ("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\base\utf8.def"
 File: utf8.def 2015/06/27 v1.1n UTF-8 support for inputenc
 ) [5]
+<./fig/1.jpg, id=179, 919.18407pt x 356.0803pt>
+File: ./fig/1.jpg Graphic file (type jpg)
+ <use ./fig/1.jpg>
+Package pdftex.def Info: ./fig/1.jpg used on input line 125.
+(pdftex.def)             Requested size: 291.24384pt x 112.82332pt.
 
-! LaTeX Error: There's no line here to end.
-
-See the LaTeX manual or LaTeX Companion for explanation.
-Type  H <return>  for immediate help.
- ...                                              
-                                                  
-l.120 \newline
-              
-Your command was ignored.
-Type  I <command> <return>  to replace it with another command,
-or  <return>  to continue without it.
-
-<./fig/2.jpg, id=149, 874.01532pt x 331.99031pt>
+<./fig/2.jpg, id=180, 375.65344pt x 235.63031pt>
 File: ./fig/2.jpg Graphic file (type jpg)
  <use ./fig/2.jpg>
-Package pdftex.def Info: ./fig/2.jpg used on input line 125.
-(pdftex.def)             Requested size: 416.06444pt x 158.0415pt.
-)
-(czlonkowie/2/main.tex [6 <./fig/2.jpg>]
+Package pdftex.def Info: ./fig/2.jpg used on input line 130.
+(pdftex.def)             Requested size: 291.24384pt x 182.69429pt.
+ [6 <./fig/1.jpg> <./fig/2.jpg>] <./fig/3.jpg, id=187, 749.80125pt x 436.63126p
+t>
+File: ./fig/3.jpg Graphic file (type jpg)
+
+<use ./fig/3.jpg>
+Package pdftex.def Info: ./fig/3.jpg used on input line 136.
+(pdftex.def)             Requested size: 416.06444pt x 242.28658pt.
+ <./fig/4.jpg, id=188, 749.04843pt x 436.63126pt>
+File: ./fig/4.jpg Graphic file (type jpg)
+
+<use ./fig/4.jpg>
+Package pdftex.def Info: ./fig/4.jpg used on input line 141.
+(pdftex.def)             Requested size: 332.85281pt x 194.0238pt.
+) (czlonkowie/2/main.tex [7 <./fig/3.jpg> <./fig/4.jpg>]
  2.
-) (czlonkowie/3/main.tex [7
+) (czlonkowie/3/main.tex [8
 
 ]
  3.
-) (czlonkowie/4/main.tex [8
+<./fig/5.jpg, id=200, 740.7675pt x 626.34pt>
+File: ./fig/5.jpg Graphic file (type jpg)
+ <use ./fig/5.jpg>
+Package pdftex.def Info: ./fig/5.jpg used on input line 31.
+(pdftex.def)             Requested size: 341.43306pt x 288.69331pt.
+
+("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\base\utf8.def"
+File: utf8.def 2015/06/27 v1.1n UTF-8 support for inputenc
+) [9
 
 ]
+LaTeX Font Info:    Try loading font information for OML+cmr on input line 67.
+
+("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\base\omlcmr.fd"
+File: omlcmr.fd 2014/09/29 v2.5h Standard LaTeX font definitions
+)
+LaTeX Font Info:    Font shape `OML/cmr/m/n' in size <8> not available
+(Font)              Font shape `OML/cmm/m/it' tried instead on input line 67.
+ [10pdfTeX warning (ext4): destination with the same identifier (name{figure.3.
+1}) has been already used, duplicate ignored
+
+\AtBegShi@Output ...ipout \box \AtBeginShipoutBox 
+                                                  \fi \fi 
+l.79 	 MainRect.
+                Y = 10; <./fig/5.jpg>] [11]
+("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\base\utf8.def"
+File: utf8.def 2015/06/27 v1.1n UTF-8 support for inputenc
+) [12]
+("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\base\utf8.def"
+File: utf8.def 2015/06/27 v1.1n UTF-8 support for inputenc
+) [13] [14]
+("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\base\utf8.def"
+File: utf8.def 2015/06/27 v1.1n UTF-8 support for inputenc
+) [15]
+("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\base\utf8.def"
+File: utf8.def 2015/06/27 v1.1n UTF-8 support for inputenc
+) [16])
+(czlonkowie/4/main.tex [17]
  4.
-) (bibrystab.tex [9
+) (bibrystab.tex [18
 
 ]
 Underfull \hbox (badness 2941) in paragraph at lines 27--28
@@ -814,17 +854,17 @@ Nu-me-rycz-na al-ge-bra li-nio-wa\OT4/cmr/m/n/10.95 , War-sza-wa,
 
 LaTeX Font Info:    Font shape `OMS/cmr/m/it' in size <10.95> not available
 (Font)              Font shape `OMS/cmsy/m/n' tried instead on input line 32.
-[10
+[19
 
 ])
 Package atveryend Info: Empty hook `BeforeClearDocument' on input line 46.
- [11]
+ [20]
 Package atveryend Info: Empty hook `AfterLastShipout' on input line 46.
  (dokumentacja.aux)
 Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 46.
 Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 46.
 Package rerunfilecheck Info: File `dokumentacja.out' has not changed.
-(rerunfilecheck)             Checksum: 41470D9BEB64122E7C436ECC01E80238;1184.
+(rerunfilecheck)             Checksum: 322ED771A8F16AAB8B1B7D7EE2F577F4;1694.
 Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 46.
  )
 (\end occurred inside a group at level 1)
@@ -832,26 +872,30 @@ Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 46.
 ### simple group (level 1) entered at line 10 ({)
 ### bottom level 
 Here is how much of TeX's memory you used:
- 9065 strings out of 493673
- 125417 string characters out of 3141532
- 239070 words of memory out of 3000000
- 12167 multiletter control sequences out of 15000+200000
- 16534 words of font info for 51 fonts, out of 3000000 for 9000
+ 9617 strings out of 493673
+ 133680 string characters out of 3141532
+ 276076 words of memory out of 3000000
+ 12352 multiletter control sequences out of 15000+200000
+ 17398 words of font info for 53 fonts, out of 3000000 for 9000
  1025 hyphenation exceptions out of 8191
- 34i,11n,52p,494b,1547s stack positions out of 5000i,500n,10000p,200000b,50000s
+ 34i,12n,52p,1482b,2395s stack positions out of 5000i,500n,10000p,200000b,50000s
 {C:/Program Files (x86)/MiKTeX 2.9/fonts/enc/dvips/pl/plit.enc}
-{C:/Program Files (x86)/MiKTeX 2.9/fonts/enc/dvips/pl/plrm.enc}<C:/Program File
-s (x86)/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmsy10.pfb><C:/Program Files 
-(x86)/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmsy8.pfb><C:/Program Files (x8
-6)/MiKTeX 2.9/fonts/type1/public/pl/plbx10.pfb><C:/Program Files (x86)/MiKTeX 2
-.9/fonts/type1/public/pl/plbx12.pfb><C:/Program Files (x86)/MiKTeX 2.9/fonts/ty
-pe1/public/pl/plbx9.pfb><C:/Program Files (x86)/MiKTeX 2.9/fonts/type1/public/p
-l/plr10.pfb><C:/Program Files (x86)/MiKTeX 2.9/fonts/type1/public/pl/plr8.pfb><
-C:/Program Files (x86)/MiKTeX 2.9/fonts/type1/public/pl/plr9.pfb><C:/Program Fi
-les (x86)/MiKTeX 2.9/fonts/type1/public/pl/plti10.pfb>
-Output written on dokumentacja.pdf (11 pages, 203383 bytes).
+{C:/Program Files (x86)/MiKTeX 2.9/fonts/enc/dvips/pl/plms.enc}{C:/Program File
+s (x86)/MiKTeX 2.9/fonts/enc/dvips/pl/plrm.enc}<C:/Program Files (x86)/MiKTeX 2
+.9/fonts/type1/public/amsfonts/cm/cmmi8.pfb><C:/Program Files (x86)/MiKTeX 2.9/
+fonts/type1/public/amsfonts/cm/cmsy10.pfb><C:/Program Files (x86)/MiKTeX 2.9/fo
+nts/type1/public/amsfonts/cm/cmsy8.pfb><C:/Program Files (x86)/MiKTeX 2.9/fonts
+/type1/public/pl/plbx10.pfb><C:/Program Files (x86)/MiKTeX 2.9/fonts/type1/publ
+ic/pl/plbx12.pfb><C:/Program Files (x86)/MiKTeX 2.9/fonts/type1/public/pl/plbx8
+.pfb><C:/Program Files (x86)/MiKTeX 2.9/fonts/type1/public/pl/plbx9.pfb><C:/Pro
+gram Files (x86)/MiKTeX 2.9/fonts/type1/public/pl/plr10.pfb><C:/Program Files (
+x86)/MiKTeX 2.9/fonts/type1/public/pl/plr8.pfb><C:/Program Files (x86)/MiKTeX 2
+.9/fonts/type1/public/pl/plr9.pfb><C:/Program Files (x86)/MiKTeX 2.9/fonts/type
+1/public/pl/plsy8.pfb><C:/Program Files (x86)/MiKTeX 2.9/fonts/type1/public/pl/
+plti10.pfb>
+Output written on dokumentacja.pdf (20 pages, 605195 bytes).
 PDF statistics:
- 247 PDF objects out of 1000 (max. 8388607)
- 81 named destinations out of 1000 (max. 500000)
- 142 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 734 PDF objects out of 1000 (max. 8388607)
+ 429 named destinations out of 1000 (max. 500000)
+ 210 words of extra memory for PDF output out of 10000 (max. 10000000)
 
